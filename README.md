@@ -1,4 +1,4 @@
-# proyecto-prueba
+# Primer repo
 Este es mi primer repositorio creado en GitHub
 
 ## descripción
